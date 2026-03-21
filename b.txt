@@ -1,3 +1,6 @@
 Alterei este arquivo
 a
 b
+d
+f
+g
