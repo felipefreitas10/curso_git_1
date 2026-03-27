@@ -2,8 +2,6 @@ Alterei
 este 
 arquivo 
 12 versão.
-<<<<<<< Updated upstream
 brincando com as branchs
-=======
 Brincando com o git e as branchs
->>>>>>> Stashed changes
+
